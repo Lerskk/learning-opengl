@@ -1,0 +1,1 @@
+/nix/store/ii75mhh7sxl11167m1b86p0qrjsjyjmd-gcc-wrapper-14-20241116/bin/gcc -Wl,--dependency-file=CMakeFiles/hello-world.dir/link.d "CMakeFiles/hello-world.dir/main.c.o" -o hello-world

@@ -1,0 +1,4 @@
+/home/lerskk/code/hello-triangle/build/CMakeFiles/glad.dir
+/home/lerskk/code/hello-triangle/build/CMakeFiles/hello-triangle.dir
+/home/lerskk/code/hello-triangle/build/CMakeFiles/edit_cache.dir
+/home/lerskk/code/hello-triangle/build/CMakeFiles/rebuild_cache.dir

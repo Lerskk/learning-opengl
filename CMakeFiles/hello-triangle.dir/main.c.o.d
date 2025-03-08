@@ -1,0 +1,37 @@
+CMakeFiles/hello-triangle.dir/main.c.o: \
+ /home/lerskk/code/hello-triangle/main.c \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/stdc-predef.h \
+ /home/lerskk/code/hello-triangle/glad/include/glad/gl.h \
+ /home/lerskk/code/hello-triangle/glad/include/KHR/khrplatform.h \
+ /nix/store/dih8vf5naf93c0wcfxqa9pll3k7iv9bm-gcc-14-20241116/lib/gcc/x86_64-unknown-linux-gnu/14.2.1/include/stdint.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/stdint.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/libc-header-start.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/features.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/features-time64.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/wordsize.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/timesize.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/sys/cdefs.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/long-double.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/gnu/stubs.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/gnu/stubs-64.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/types.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/typesizes.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/time64.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/wchar.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/stdint-intn.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/stdint-uintn.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/stdint-least.h \
+ /nix/store/hwqywjbg5d2nj35ijw1fc48mli47dvh8-glfw-3.4/include/GLFW/glfw3.h \
+ /nix/store/dih8vf5naf93c0wcfxqa9pll3k7iv9bm-gcc-14-20241116/lib/gcc/x86_64-unknown-linux-gnu/14.2.1/include/stddef.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/stdio.h \
+ /nix/store/dih8vf5naf93c0wcfxqa9pll3k7iv9bm-gcc-14-20241116/lib/gcc/x86_64-unknown-linux-gnu/14.2.1/include/stdarg.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/types/__fpos_t.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/types/__mbstate_t.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/types/__fpos64_t.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/types/__FILE.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/types/FILE.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/types/struct_FILE.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/types/cookie_io_functions_t.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/stdio_lim.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/floatn.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/floatn-common.h
