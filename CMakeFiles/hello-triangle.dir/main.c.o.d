@@ -3,7 +3,6 @@ CMakeFiles/hello-triangle.dir/main.c.o: \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/stdc-predef.h \
  /home/lerskk/code/hello-triangle/glad/include/glad/gl.h \
  /home/lerskk/code/hello-triangle/glad/include/KHR/khrplatform.h \
- /nix/store/dih8vf5naf93c0wcfxqa9pll3k7iv9bm-gcc-14-20241116/lib/gcc/x86_64-unknown-linux-gnu/14.2.1/include/stdint.h \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/stdint.h \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/libc-header-start.h \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/features.h \
@@ -35,6 +34,9 @@ CMakeFiles/hello-triangle.dir/main.c.o: \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/stdio_lim.h \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/floatn.h \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/floatn-common.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/stdio2-decl.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/stdio.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/stdio2.h \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/stdlib.h \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/waitflags.h \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/waitstatus.h \
@@ -54,6 +56,8 @@ CMakeFiles/hello-triangle.dir/main.c.o: \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/types/__sigset_t.h \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/types/struct_timeval.h \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/types/struct_timespec.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/select2.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/select-decl.h \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/pthreadtypes.h \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/thread-shared-types.h \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/pthreadtypes-arch.h \
@@ -61,4 +65,8 @@ CMakeFiles/hello-triangle.dir/main.c.o: \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/struct_mutex.h \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/struct_rwlock.h \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/alloca.h \
- /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/stdlib-float.h
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/stdlib-bsearch.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/stdlib-float.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/stdlib.h \
+ /nix/store/dih8vf5naf93c0wcfxqa9pll3k7iv9bm-gcc-14-20241116/lib/gcc/x86_64-unknown-linux-gnu/14.2.1/include/stdbool.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/assert.h
