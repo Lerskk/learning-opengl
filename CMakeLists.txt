@@ -8,5 +8,5 @@ include_directories(glad/include)
 
 find_package(glfw3 REQUIRED)
 
-add_executable(hello-triangle main.c)
+add_executable(hello-triangle main.c shader.c)
 target_link_libraries(hello-triangle glfw glad m)

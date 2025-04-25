@@ -120,12 +120,12 @@ CMakeFiles/glad.dir/clean:
 CMakeFiles/hello-triangle.dir/all: CMakeFiles/glad.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello-triangle.dir/build.make CMakeFiles/hello-triangle.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello-triangle.dir/build.make CMakeFiles/hello-triangle.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/lerskk/code/hello-triangle/build/CMakeFiles --progress-num=3,4 "Built target hello-triangle"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/lerskk/code/hello-triangle/build/CMakeFiles --progress-num=3,4,5 "Built target hello-triangle"
 .PHONY : CMakeFiles/hello-triangle.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/hello-triangle.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lerskk/code/hello-triangle/build/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lerskk/code/hello-triangle/build/CMakeFiles 5
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/hello-triangle.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/lerskk/code/hello-triangle/build/CMakeFiles 0
 .PHONY : CMakeFiles/hello-triangle.dir/rule
@@ -137,7 +137,7 @@ hello-triangle: CMakeFiles/hello-triangle.dir/rule
 # codegen rule for target.
 CMakeFiles/hello-triangle.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello-triangle.dir/build.make CMakeFiles/hello-triangle.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/lerskk/code/hello-triangle/build/CMakeFiles --progress-num=3,4 "Finished codegen for target hello-triangle"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/lerskk/code/hello-triangle/build/CMakeFiles --progress-num=3,4,5 "Finished codegen for target hello-triangle"
 .PHONY : CMakeFiles/hello-triangle.dir/codegen
 
 # clean rule for target.

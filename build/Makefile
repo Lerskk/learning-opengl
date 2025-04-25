@@ -190,6 +190,30 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello-triangle.dir/build.make CMakeFiles/hello-triangle.dir/main.c.s
 .PHONY : main.c.s
 
+shader.o: shader.c.o
+.PHONY : shader.o
+
+# target to build an object file
+shader.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello-triangle.dir/build.make CMakeFiles/hello-triangle.dir/shader.c.o
+.PHONY : shader.c.o
+
+shader.i: shader.c.i
+.PHONY : shader.i
+
+# target to preprocess a source file
+shader.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello-triangle.dir/build.make CMakeFiles/hello-triangle.dir/shader.c.i
+.PHONY : shader.c.i
+
+shader.s: shader.c.s
+.PHONY : shader.s
+
+# target to generate assembly for a file
+shader.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello-triangle.dir/build.make CMakeFiles/hello-triangle.dir/shader.c.s
+.PHONY : shader.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -206,6 +230,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... shader.o"
+	@echo "... shader.i"
+	@echo "... shader.s"
 .PHONY : help
 
 

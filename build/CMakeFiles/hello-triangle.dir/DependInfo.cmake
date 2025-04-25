@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/lerskk/code/hello-triangle/main.c" "CMakeFiles/hello-triangle.dir/main.c.o" "gcc" "CMakeFiles/hello-triangle.dir/main.c.o.d"
+  "/home/lerskk/code/hello-triangle/shader.c" "CMakeFiles/hello-triangle.dir/shader.c.o" "gcc" "CMakeFiles/hello-triangle.dir/shader.c.o.d"
   "" "hello-triangle" "gcc" "CMakeFiles/hello-triangle.dir/link.d"
   )
 
