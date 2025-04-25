@@ -22,6 +22,16 @@ CMakeFiles/hello-triangle.dir/main.c.o: \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/stdint-least.h \
  /nix/store/hwqywjbg5d2nj35ijw1fc48mli47dvh8-glfw-3.4/include/GLFW/glfw3.h \
  /nix/store/dih8vf5naf93c0wcfxqa9pll3k7iv9bm-gcc-14-20241116/lib/gcc/x86_64-unknown-linux-gnu/14.2.1/include/stddef.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/math.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/math-vector.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/libm-simd-decl-stubs.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/floatn.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/floatn-common.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/flt-eval-method.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/fp-logb.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/fp-fast.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/mathcalls-helper-functions.h \
+ /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/mathcalls.h \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/stdio.h \
  /nix/store/dih8vf5naf93c0wcfxqa9pll3k7iv9bm-gcc-14-20241116/lib/gcc/x86_64-unknown-linux-gnu/14.2.1/include/stdarg.h \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/types/__fpos_t.h \
@@ -32,8 +42,6 @@ CMakeFiles/hello-triangle.dir/main.c.o: \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/types/struct_FILE.h \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/types/cookie_io_functions_t.h \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/stdio_lim.h \
- /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/floatn.h \
- /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/floatn-common.h \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/stdio2-decl.h \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/stdio.h \
  /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/bits/stdio2.h \
