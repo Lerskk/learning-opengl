@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/lerskk/code/hello-triangle/build",
+  "command": "/nix/store/ii75mhh7sxl11167m1b86p0qrjsjyjmd-gcc-wrapper-14-20241116/bin/gcc  -I/home/lerskk/code/hello-triangle/glad/include  -o CMakeFiles/glad.dir/glad/src/gl.c.o -c /home/lerskk/code/hello-triangle/glad/src/gl.c",
+  "file": "/home/lerskk/code/hello-triangle/glad/src/gl.c",
+  "output": "CMakeFiles/glad.dir/glad/src/gl.c.o"
+},
+{
+  "directory": "/home/lerskk/code/hello-triangle/build",
+  "command": "/nix/store/ii75mhh7sxl11167m1b86p0qrjsjyjmd-gcc-wrapper-14-20241116/bin/gcc  -I/home/lerskk/code/hello-triangle/glad/include -isystem /nix/store/hwqywjbg5d2nj35ijw1fc48mli47dvh8-glfw-3.4/include  -o CMakeFiles/hello-triangle.dir/main.c.o -c /home/lerskk/code/hello-triangle/main.c",
+  "file": "/home/lerskk/code/hello-triangle/main.c",
+  "output": "CMakeFiles/hello-triangle.dir/main.c.o"
+}
+]

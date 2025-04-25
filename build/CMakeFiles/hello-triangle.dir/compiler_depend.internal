@@ -89,7 +89,7 @@ hello-triangle
  /nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/ld-linux-x86-64.so.2
  /nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/libc.so
  /nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/libdl.so.2
- /nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/libm.so.6
+ /nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/libm.so
  /nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/libpthread.so.0
  /nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/librt.so.1
  /nix/store/6xc6cxassd09k64fz0qdx1qmcl1nycwv-libXcursor-1.2.3/lib/libXcursor.so.1

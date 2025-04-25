@@ -1,4 +1,6 @@
 hello-triangle: \
+  /nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/libm.so \
+  /nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/libm.so \
   /nix/store/2lhklm5aizx30qbw49acnrrzkj9lbmij-gcc-14-20241116-lib/lib/libgcc_s.so \
   /nix/store/2lhklm5aizx30qbw49acnrrzkj9lbmij-gcc-14-20241116-lib/lib/libgcc_s.so \
   /nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/libc.so \
@@ -6,7 +8,6 @@ hello-triangle: \
   /nix/store/2lhklm5aizx30qbw49acnrrzkj9lbmij-gcc-14-20241116-lib/lib/libgcc_s.so \
   /nix/store/2lhklm5aizx30qbw49acnrrzkj9lbmij-gcc-14-20241116-lib/lib/libgcc_s.so \
   /nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/librt.so.1 \
-  /nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/libm.so.6 \
   /nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/libdl.so.2 \
   /nix/store/vc71fdmh5aq6nhbli31d9bsaq8608a2q-libXrandr-1.5.4/lib/libXrandr.so.2 \
   /nix/store/pv8rsy7zhmb0l0vxf0pl2jwhg6iv8k8k-libXinerama-1.1.5/lib/libXinerama.so.1 \
@@ -24,6 +25,10 @@ hello-triangle: \
   /nix/store/ljc79jd05mj30nrvdj29gqpaqyzrby54-libXau-1.0.12/lib/libXau.so.6 \
   /nix/store/cwlgpi6p0v508z9fs7a5d8knkw49q16q-libXdmcp-1.1.5/lib/libXdmcp.so.6
 
+/nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/libm.so:
+
+/nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/libm.so:
+
 /nix/store/2lhklm5aizx30qbw49acnrrzkj9lbmij-gcc-14-20241116-lib/lib/libgcc_s.so:
 
 /nix/store/2lhklm5aizx30qbw49acnrrzkj9lbmij-gcc-14-20241116-lib/lib/libgcc_s.so:
@@ -37,8 +42,6 @@ hello-triangle: \
 /nix/store/2lhklm5aizx30qbw49acnrrzkj9lbmij-gcc-14-20241116-lib/lib/libgcc_s.so:
 
 /nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/librt.so.1:
-
-/nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/libm.so.6:
 
 /nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/libdl.so.2:
 

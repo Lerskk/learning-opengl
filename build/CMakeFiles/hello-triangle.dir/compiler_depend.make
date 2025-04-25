@@ -87,7 +87,7 @@ hello-triangle: /nix/store/2lhklm5aizx30qbw49acnrrzkj9lbmij-gcc-14-20241116-lib/
   /nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/ld-linux-x86-64.so.2 \
   /nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/libc.so \
   /nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/libdl.so.2 \
-  /nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/libm.so.6 \
+  /nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/libm.so \
   /nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/libpthread.so.0 \
   /nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/librt.so.1 \
   /nix/store/6xc6cxassd09k64fz0qdx1qmcl1nycwv-libXcursor-1.2.3/lib/libXcursor.so.1 \
@@ -119,6 +119,8 @@ hello-triangle: /nix/store/2lhklm5aizx30qbw49acnrrzkj9lbmij-gcc-14-20241116-lib/
 
 /nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/libpthread.so.0:
 
+/nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/libm.so:
+
 /nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/libc.so:
 
 /nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/ld-linux-x86-64.so.2:
@@ -132,8 +134,6 @@ hello-triangle: /nix/store/2lhklm5aizx30qbw49acnrrzkj9lbmij-gcc-14-20241116-lib/
 /nix/store/2lhklm5aizx30qbw49acnrrzkj9lbmij-gcc-14-20241116-lib/lib/libgcc_s.so:
 
 /nix/store/dih8vf5naf93c0wcfxqa9pll3k7iv9bm-gcc-14-20241116/lib/gcc/x86_64-unknown-linux-gnu/14.2.1/include/stddef.h:
-
-/nix/store/6q2mknq81cyscjmkv72fpcsvan56qhmg-glibc-2.40-66/lib/libm.so.6:
 
 /nix/store/1ycjq6h047qqwp3fm9sbl805xnrxlh2h-glibc-2.40-66-dev/include/sys/cdefs.h:
 
