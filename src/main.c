@@ -119,7 +119,7 @@ int main( void ) {
   glEnableVertexAttribArray(0);
   glEnableVertexAttribArray(1);
   
-  GLuint shader_program = create_shader_program_from_files("../shader.vert", "../shader.frag");
+  GLuint shader_program = create_shader_program_from_files("../shaders/shader.vert", "../shaders/shader.frag");
 
   glEnable(GL_CULL_FACE);
   glCullFace(GL_BACK);
@@ -165,7 +165,7 @@ int main( void ) {
     }
 
     if (GLFW_PRESS == glfwGetKey(window, GLFW_KEY_R)) {
-      reload_shader_program(&shader_program, "../shader.vert", "../shader.frag");
+      reload_shader_program(&shader_program, "../shaders/shader.vert", "../shaders/shader.frag");
     }
 
     glfwGetCursorPos(window, &x, &y);

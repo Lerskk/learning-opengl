@@ -4,7 +4,7 @@
 # compile C with /nix/store/ii75mhh7sxl11167m1b86p0qrjsjyjmd-gcc-wrapper-14-20241116/bin/gcc
 C_DEFINES = 
 
-C_INCLUDES = -I/home/lerskk/code/hello-triangle/glad/include
+C_INCLUDES = -I/home/lerskk/code/hello-triangle/glad/include -I/home/lerskk/code/hello-triangle/include
 
 C_FLAGS = 
 

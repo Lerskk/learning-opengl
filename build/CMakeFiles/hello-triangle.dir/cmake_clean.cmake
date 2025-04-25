@@ -1,9 +1,9 @@
 file(REMOVE_RECURSE
   "CMakeFiles/hello-triangle.dir/link.d"
-  "CMakeFiles/hello-triangle.dir/main.c.o"
-  "CMakeFiles/hello-triangle.dir/main.c.o.d"
-  "CMakeFiles/hello-triangle.dir/shader.c.o"
-  "CMakeFiles/hello-triangle.dir/shader.c.o.d"
+  "CMakeFiles/hello-triangle.dir/src/main.c.o"
+  "CMakeFiles/hello-triangle.dir/src/main.c.o.d"
+  "CMakeFiles/hello-triangle.dir/src/shader.c.o"
+  "CMakeFiles/hello-triangle.dir/src/shader.c.o.d"
   "hello-triangle"
   "hello-triangle.pdb"
 )

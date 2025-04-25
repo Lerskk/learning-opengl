@@ -72,44 +72,44 @@ include CMakeFiles/hello-triangle.dir/flags.make
 CMakeFiles/hello-triangle.dir/codegen:
 .PHONY : CMakeFiles/hello-triangle.dir/codegen
 
-CMakeFiles/hello-triangle.dir/main.c.o: CMakeFiles/hello-triangle.dir/flags.make
-CMakeFiles/hello-triangle.dir/main.c.o: /home/lerskk/code/hello-triangle/main.c
-CMakeFiles/hello-triangle.dir/main.c.o: CMakeFiles/hello-triangle.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lerskk/code/hello-triangle/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/hello-triangle.dir/main.c.o"
-	/nix/store/ii75mhh7sxl11167m1b86p0qrjsjyjmd-gcc-wrapper-14-20241116/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hello-triangle.dir/main.c.o -MF CMakeFiles/hello-triangle.dir/main.c.o.d -o CMakeFiles/hello-triangle.dir/main.c.o -c /home/lerskk/code/hello-triangle/main.c
+CMakeFiles/hello-triangle.dir/src/main.c.o: CMakeFiles/hello-triangle.dir/flags.make
+CMakeFiles/hello-triangle.dir/src/main.c.o: /home/lerskk/code/hello-triangle/src/main.c
+CMakeFiles/hello-triangle.dir/src/main.c.o: CMakeFiles/hello-triangle.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lerskk/code/hello-triangle/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/hello-triangle.dir/src/main.c.o"
+	/nix/store/ii75mhh7sxl11167m1b86p0qrjsjyjmd-gcc-wrapper-14-20241116/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hello-triangle.dir/src/main.c.o -MF CMakeFiles/hello-triangle.dir/src/main.c.o.d -o CMakeFiles/hello-triangle.dir/src/main.c.o -c /home/lerskk/code/hello-triangle/src/main.c
 
-CMakeFiles/hello-triangle.dir/main.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/hello-triangle.dir/main.c.i"
-	/nix/store/ii75mhh7sxl11167m1b86p0qrjsjyjmd-gcc-wrapper-14-20241116/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lerskk/code/hello-triangle/main.c > CMakeFiles/hello-triangle.dir/main.c.i
+CMakeFiles/hello-triangle.dir/src/main.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/hello-triangle.dir/src/main.c.i"
+	/nix/store/ii75mhh7sxl11167m1b86p0qrjsjyjmd-gcc-wrapper-14-20241116/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lerskk/code/hello-triangle/src/main.c > CMakeFiles/hello-triangle.dir/src/main.c.i
 
-CMakeFiles/hello-triangle.dir/main.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/hello-triangle.dir/main.c.s"
-	/nix/store/ii75mhh7sxl11167m1b86p0qrjsjyjmd-gcc-wrapper-14-20241116/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lerskk/code/hello-triangle/main.c -o CMakeFiles/hello-triangle.dir/main.c.s
+CMakeFiles/hello-triangle.dir/src/main.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/hello-triangle.dir/src/main.c.s"
+	/nix/store/ii75mhh7sxl11167m1b86p0qrjsjyjmd-gcc-wrapper-14-20241116/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lerskk/code/hello-triangle/src/main.c -o CMakeFiles/hello-triangle.dir/src/main.c.s
 
-CMakeFiles/hello-triangle.dir/shader.c.o: CMakeFiles/hello-triangle.dir/flags.make
-CMakeFiles/hello-triangle.dir/shader.c.o: /home/lerskk/code/hello-triangle/shader.c
-CMakeFiles/hello-triangle.dir/shader.c.o: CMakeFiles/hello-triangle.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lerskk/code/hello-triangle/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/hello-triangle.dir/shader.c.o"
-	/nix/store/ii75mhh7sxl11167m1b86p0qrjsjyjmd-gcc-wrapper-14-20241116/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hello-triangle.dir/shader.c.o -MF CMakeFiles/hello-triangle.dir/shader.c.o.d -o CMakeFiles/hello-triangle.dir/shader.c.o -c /home/lerskk/code/hello-triangle/shader.c
+CMakeFiles/hello-triangle.dir/src/shader.c.o: CMakeFiles/hello-triangle.dir/flags.make
+CMakeFiles/hello-triangle.dir/src/shader.c.o: /home/lerskk/code/hello-triangle/src/shader.c
+CMakeFiles/hello-triangle.dir/src/shader.c.o: CMakeFiles/hello-triangle.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lerskk/code/hello-triangle/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/hello-triangle.dir/src/shader.c.o"
+	/nix/store/ii75mhh7sxl11167m1b86p0qrjsjyjmd-gcc-wrapper-14-20241116/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hello-triangle.dir/src/shader.c.o -MF CMakeFiles/hello-triangle.dir/src/shader.c.o.d -o CMakeFiles/hello-triangle.dir/src/shader.c.o -c /home/lerskk/code/hello-triangle/src/shader.c
 
-CMakeFiles/hello-triangle.dir/shader.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/hello-triangle.dir/shader.c.i"
-	/nix/store/ii75mhh7sxl11167m1b86p0qrjsjyjmd-gcc-wrapper-14-20241116/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lerskk/code/hello-triangle/shader.c > CMakeFiles/hello-triangle.dir/shader.c.i
+CMakeFiles/hello-triangle.dir/src/shader.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/hello-triangle.dir/src/shader.c.i"
+	/nix/store/ii75mhh7sxl11167m1b86p0qrjsjyjmd-gcc-wrapper-14-20241116/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lerskk/code/hello-triangle/src/shader.c > CMakeFiles/hello-triangle.dir/src/shader.c.i
 
-CMakeFiles/hello-triangle.dir/shader.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/hello-triangle.dir/shader.c.s"
-	/nix/store/ii75mhh7sxl11167m1b86p0qrjsjyjmd-gcc-wrapper-14-20241116/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lerskk/code/hello-triangle/shader.c -o CMakeFiles/hello-triangle.dir/shader.c.s
+CMakeFiles/hello-triangle.dir/src/shader.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/hello-triangle.dir/src/shader.c.s"
+	/nix/store/ii75mhh7sxl11167m1b86p0qrjsjyjmd-gcc-wrapper-14-20241116/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lerskk/code/hello-triangle/src/shader.c -o CMakeFiles/hello-triangle.dir/src/shader.c.s
 
 # Object files for target hello-triangle
 hello__triangle_OBJECTS = \
-"CMakeFiles/hello-triangle.dir/main.c.o" \
-"CMakeFiles/hello-triangle.dir/shader.c.o"
+"CMakeFiles/hello-triangle.dir/src/main.c.o" \
+"CMakeFiles/hello-triangle.dir/src/shader.c.o"
 
 # External object files for target hello-triangle
 hello__triangle_EXTERNAL_OBJECTS =
 
-hello-triangle: CMakeFiles/hello-triangle.dir/main.c.o
-hello-triangle: CMakeFiles/hello-triangle.dir/shader.c.o
+hello-triangle: CMakeFiles/hello-triangle.dir/src/main.c.o
+hello-triangle: CMakeFiles/hello-triangle.dir/src/shader.c.o
 hello-triangle: CMakeFiles/hello-triangle.dir/build.make
 hello-triangle: CMakeFiles/hello-triangle.dir/compiler_depend.ts
 hello-triangle: /nix/store/hwqywjbg5d2nj35ijw1fc48mli47dvh8-glfw-3.4/lib/libglfw.so.3.4

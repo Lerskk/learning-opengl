@@ -166,53 +166,53 @@ glad/src/gl.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/glad.dir/build.make CMakeFiles/glad.dir/glad/src/gl.c.s
 .PHONY : glad/src/gl.c.s
 
-main.o: main.c.o
-.PHONY : main.o
+src/main.o: src/main.c.o
+.PHONY : src/main.o
 
 # target to build an object file
-main.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello-triangle.dir/build.make CMakeFiles/hello-triangle.dir/main.c.o
-.PHONY : main.c.o
+src/main.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello-triangle.dir/build.make CMakeFiles/hello-triangle.dir/src/main.c.o
+.PHONY : src/main.c.o
 
-main.i: main.c.i
-.PHONY : main.i
+src/main.i: src/main.c.i
+.PHONY : src/main.i
 
 # target to preprocess a source file
-main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello-triangle.dir/build.make CMakeFiles/hello-triangle.dir/main.c.i
-.PHONY : main.c.i
+src/main.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello-triangle.dir/build.make CMakeFiles/hello-triangle.dir/src/main.c.i
+.PHONY : src/main.c.i
 
-main.s: main.c.s
-.PHONY : main.s
+src/main.s: src/main.c.s
+.PHONY : src/main.s
 
 # target to generate assembly for a file
-main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello-triangle.dir/build.make CMakeFiles/hello-triangle.dir/main.c.s
-.PHONY : main.c.s
+src/main.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello-triangle.dir/build.make CMakeFiles/hello-triangle.dir/src/main.c.s
+.PHONY : src/main.c.s
 
-shader.o: shader.c.o
-.PHONY : shader.o
+src/shader.o: src/shader.c.o
+.PHONY : src/shader.o
 
 # target to build an object file
-shader.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello-triangle.dir/build.make CMakeFiles/hello-triangle.dir/shader.c.o
-.PHONY : shader.c.o
+src/shader.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello-triangle.dir/build.make CMakeFiles/hello-triangle.dir/src/shader.c.o
+.PHONY : src/shader.c.o
 
-shader.i: shader.c.i
-.PHONY : shader.i
+src/shader.i: src/shader.c.i
+.PHONY : src/shader.i
 
 # target to preprocess a source file
-shader.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello-triangle.dir/build.make CMakeFiles/hello-triangle.dir/shader.c.i
-.PHONY : shader.c.i
+src/shader.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello-triangle.dir/build.make CMakeFiles/hello-triangle.dir/src/shader.c.i
+.PHONY : src/shader.c.i
 
-shader.s: shader.c.s
-.PHONY : shader.s
+src/shader.s: src/shader.c.s
+.PHONY : src/shader.s
 
 # target to generate assembly for a file
-shader.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello-triangle.dir/build.make CMakeFiles/hello-triangle.dir/shader.c.s
-.PHONY : shader.c.s
+src/shader.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello-triangle.dir/build.make CMakeFiles/hello-triangle.dir/src/shader.c.s
+.PHONY : src/shader.c.s
 
 # Help Target
 help:
@@ -227,12 +227,12 @@ help:
 	@echo "... glad/src/gl.o"
 	@echo "... glad/src/gl.i"
 	@echo "... glad/src/gl.s"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
-	@echo "... shader.o"
-	@echo "... shader.i"
-	@echo "... shader.s"
+	@echo "... src/main.o"
+	@echo "... src/main.i"
+	@echo "... src/main.s"
+	@echo "... src/shader.o"
+	@echo "... src/shader.i"
+	@echo "... src/shader.s"
 .PHONY : help
 
 
